@@ -505,14 +505,15 @@ footer {
     }
 
     .featureTitle {
-        font-size: 14px;
+        font-size: 12px;
     }
 
     .product {
         display: flex;
         flex-direction: column;
         align-items: center;
-    }
+        min-height: 850px;
+}
 
     .productDetails {
         display: flex;
