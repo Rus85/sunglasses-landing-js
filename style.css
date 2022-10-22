@@ -450,6 +450,10 @@ footer {
     font-weight: 300;
 }
 
+hr {
+    display: none;
+}    
+
 @media screen and (max-width: 480px) {
     nav {
         padding: 20px;
