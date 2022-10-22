@@ -596,6 +596,7 @@ hr {
     }
     
     .footerRight {
+        text-align: center;
         align-items: center;
     }
 
