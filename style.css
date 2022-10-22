@@ -596,13 +596,16 @@ hr {
     }
     
     .footerRight {
-        text-align: center;
         align-items: center;
     }
 
     .fListItem {
         font-size: 14px;
         color: black;
+    }
+    
+    .fMenuTitle {
+        text-align: center;
     }
 
     hr {
